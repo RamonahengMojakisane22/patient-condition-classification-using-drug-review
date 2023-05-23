@@ -1,0 +1,5 @@
+This project containst the dataset csv file used and to start using this model, you need to just be connected to the internet.
+- All the required libraries will be installed for you as you run the cells down to the last.
+- Download the model
+- Open the folder with jupyter notebook 
+- And just run the model
